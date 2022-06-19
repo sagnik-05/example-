@@ -1,2 +1,2 @@
 # example-
-just for knowledge
+just for knowlegde
